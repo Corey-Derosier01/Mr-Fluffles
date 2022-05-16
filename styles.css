@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: darkgoldenrod;
+  }
+  .photo  {
+    display: flex;
+    background-color: skyblue;
+    justify-content: center;
+    padding: 5px;
+    width: 1650px;
+    height: 400px;
+  }
+  .Paragraph {
+      font-size: 40px;
+      color: skyblue;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
